@@ -1,9 +1,8 @@
 #### Intent在Activity之间传值的几种方式
- <div class="blog-body" id="blogBody">
-                                    <val data-name="blog_content_type" data-value="richtext"></val>
-                    <div class='BlogContent'>
-                        <p>发这篇博客主要讲一下<a href="http://lib.csdn.net/base/15" target="_blank" rel="nofollow">Android</a>中Intent中如何传值的几种方法：</p> 
-<p><strong><span style="color:#B22222">1：基本数据类型,包含了</span><a href="http://lib.csdn.net/base/17" target="_blank" rel="nofollow"><span style="color:#B22222">Java</span></a><span style="color:#B22222">八种基本数据类型和CharSequece文本<br> 2：八种数据类新对应数组和CharSequece文本数组</span></strong></p> 
+
+                                   
+<p>发这篇博客主要讲一下Android中Intent中如何传值的几种方法：</p> 
+<p><strong><span style="color:#B22222">1：基本数据类型,包含了</span><span style="color:#B22222">Java</span></a><span style="color:#B22222">八种基本数据类型和CharSequece文本<br> 2：八种数据类新对应数组和CharSequece文本数组</span></strong></p> 
 <p><span style="color:#B22222"><strong>3：Bundle传值</strong></span></p> 
 <p><span style="color:#B22222"><strong>4：ArrayList集合&nbsp;</strong></span></p> 
 <p><span style="color:#B22222"><strong>5：Serializable传递对象</strong></span></p> 
